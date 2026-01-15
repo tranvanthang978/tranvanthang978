@@ -25,10 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranvanthang978&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranvanthang978&layout=compact&theme=radical)
-
 ### 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
